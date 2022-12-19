@@ -10,7 +10,7 @@
     No: the test failed
 
 
-#Team View
+# Team View
 * Open the browser and access the site
 * Fill in the fields with the appropriate information to log in
 * Click on the login button
